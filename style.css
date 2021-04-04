@@ -1,0 +1,18 @@
+body {
+    background-color: peachpuff;
+    font-family: 'Mulish',
+        sans-serif;
+}
+
+h2 {
+    color: red;
+    text-decoration: underline;
+}
+
+button {
+    background-color: royalblue;
+    color: seashell;
+    font-size: 120;
+    font-family: 'Mulish', sans-serif;
+
+}
